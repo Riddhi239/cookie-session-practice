@@ -1,0 +1,22 @@
+{
+  "name": "express-cookie-session-practice",
+  "version": "1.0.0",
+  "description": "Refer the PROBLEM.md file for the problem description.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab-wipro.stackroute.in/riddhijain9230/express-cookie-session-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3"
+  }
+}
